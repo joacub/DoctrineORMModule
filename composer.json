@@ -1,5 +1,5 @@
 {
-    "name":              "doctrine/doctrine-orm-module",
+    "name":              "joacub/doctrine-orm-module",
     "description":       "Zend Framework 2 Module that provides Doctrine ORM functionality",
     "type":              "library",
     "license":           "MIT",
